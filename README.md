@@ -22,7 +22,7 @@ Hello! I'm a passionate and curious data enthusiast currently pursuing a B.Sc. i
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishnan-code&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kishnan-code&theme=aura&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kishnan-code&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kishnan-code&limit=5&theme=dark&combine_all_yearly_contributions=true)
